@@ -1,0 +1,7 @@
+# secure-auth-sandbox/.gitignore
+node_modules/
+.env
+.env.local
+dist/
+npm-debug.log*
+.vscode/
